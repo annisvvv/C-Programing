@@ -1,9 +1,11 @@
-| Operator | Description                        | Example                                                 |
-| -------- | ---------------------------------- | ------------------------------------------------------- |
-| sizeof() | Returns the size of a variable.    | sizeof(a), where a is integer, will return 4.           |
-| &        | Returns the address of a variable. | &a; returns the actual address of the variable.         |
-| *        | Pointer to a variable.             | *a;                                                     |
-| ? :      | Conditional Expression.            | If Condition is true ? then value X : otherwise value Y |
+| Operator | Description                                      | Example                                           |
+| -------- | ------------------------------------------------ | ------------------------------------------------- |
+| sizeof() | Returns the size of a variable.                  | sizeof(a), where a is integer, will return 4.     |
+| &        | Returns the address of a variable.               | &a; returns the actual address of the variable.   |
+| *        | Pointer to a variable.                           | *a;                                               |
+| ?:       | Conditional Expression.                          | If Condition is true ? then value X, else value Y |
+| .        | Member access operator                           | var.member                                        |
+| −>       | Access members of a struct variable with pointer | ptr −> member;                                    |
 # The `.` operator
 The dot operator is a **member selection operator,** when used with the struct or union variable. The dot (.) operator has the **highest operator precedence in C** Language and its associativity is from left to right.
 

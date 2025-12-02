@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1- C Fundamentals/2- C data types/7- Boolean.md",
+                "file": "3- C functions/2- Function parameters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7- Boolean"
+              "title": "2- Function parameters"
             }
           }
         ]
@@ -169,14 +169,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "e4ae3c0808179862",
+  "active": "9202b644270802f2",
   "lastOpenFiles": [
+    "3- C functions/1- Functions.md",
+    "3- C functions/2- Function parameters.md",
+    "2- C Decision making/5- break & continue & goto/3- Goto.md",
+    "2- C Decision making/5- break & continue & goto/2- Continue.md",
+    "2- C Decision making/5- break & continue & goto/1- Break.md",
+    "2- C Decision making/6- C do while loop/Do while loop.md",
+    "2- C Decision making/4- C for loop/1- For loop.md",
+    "2- C Decision making/6- C do while loop",
+    "2- C Decision making/2- C switch/Switch.md",
+    "1- C Fundamentals/4- C operators/8- Miscellaneous operators and map.md",
+    "1- C Fundamentals/2- C data types/7- Boolean.md",
     "1- C Fundamentals/2- C data types/9- Integer promotion.pdf",
     "1- C Fundamentals/2- C data types/10- Character Arithmetic.md",
     "1- C Fundamentals/2- C data types/10- Character arithmetic.pdf",
     "1- C Fundamentals/4- C operators/9- Ternary operator.md",
     "1- C Fundamentals/2- C data types/9- Integer promotion.md",
-    "1- C Fundamentals/4- C operators/8- Miscellaneous operators and map.md",
     "1- C Fundamentals/4- C operators/1- Operators.md",
     "1- C Fundamentals/2- C data types/4- sizeof Operator.md",
     "1- C Fundamentals/4- C operators/2- Arithmetic operators.md",
@@ -193,19 +203,10 @@
     "4- Working with memory/1- C memory address/1- Memory address.md",
     "1- C Fundamentals/2- C data types/Examples.md",
     "1- C Fundamentals/2- C data types/3- Numeric (int, float, double).md",
-    "1- C Fundamentals/2- C data types/7- Boolean.md",
-    "1- C Fundamentals/2- C data types/8- Literals.md",
-    "1- C Fundamentals/2- C data types/6- Extended types.md",
-    "1- C Fundamentals/2- C data types/5- Type conversion.md",
     "zFiles/Pasted image 20251128052850.jpg",
-    "1- C Fundamentals/2- C data types/1- Data types.md",
-    "6- Socket Programming/2- How it work.md",
-    "6- Socket Programming/1- Step for a connexion.md",
-    "1- C Fundamentals/2- C data types/2- Format specifier.md",
     "5- C with Assembly/GCC Inline Assembly.pdf",
     "5- C with Assembly",
     "6- Socket Programming",
-    "zC reference",
-    "3- C functions"
+    "zC reference"
   ]
 }
